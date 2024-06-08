@@ -1,0 +1,15 @@
+
+#seminars .smnr-left {
+    /* min-height: 300px; */
+    background: url("../../assets/images/seminars1.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+#seminars .smnr-right {
+    background: url("../../assets/images/seminars2.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
